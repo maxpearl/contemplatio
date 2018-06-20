@@ -1,3 +1,8 @@
+# Visual Studio Code directory
 .vscode
 
+# SQL Lite DB (this project uses postgresql)
 db.sqlite3
+
+# Uploads directory
+uploads/

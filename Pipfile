@@ -9,6 +9,9 @@ name = "pypi"
 django = "*"
 whitenoise = "*"
 django-crispy-forms = "*"
+"psycopg2" = "*"
+"psycopg2-binary" = "*"
+pillow = "*"
 
 [requires]
-python_version = "3.6"
+python_version = "3.5.2"
